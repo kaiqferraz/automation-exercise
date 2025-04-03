@@ -2,7 +2,7 @@ import { Given, When, Then } from "cypress-cucumber-preprocessor/steps";
 import Login from "../../../poo/login.po";
 
 Given("que o usuário visita a página de login", () => {
-  cy.visit("https://www.automationexercise.com/login");
+  cy.visit(Cypress.env("BASE_URL") + "/login");
 });
 
 When("o usuário preenche o campo de email", () => {
