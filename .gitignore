@@ -1,0 +1,26 @@
+# Pastas
+cypress/downloads/
+cypress/screenshots/
+cypress/fixtures/data.json
+node_modules/
+dist/
+
+# Arquivos
+package-lock.json
+
+# Extensoes 
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+*.txt
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
