@@ -50,17 +50,20 @@ $ npx cypress run
 
 ## Cenários de Teste Implementados 🔍
 
-Login: Testa o login com credenciais válidas.
-Busca de Produtos: Realiza a busca de produtos e valida os resultados.
-Adicionar Produto ao Carrinho: Adiciona produtos ao carrinho e valida a inclusão.
-Validar Produtos no Carrinho: Valida os nomes e preços dos produtos no carrinho.
+_Login:_ Testa o login com credenciais válidas.
+
+_Busca de Produtos:_ Realiza a busca de produtos e valida os resultados.
+
+_Adicionar Produto ao Carrinho:_ Adiciona produtos ao carrinho e valida a inclusão.
+
+_Validar Produtos no Carrinho:_ Valida os nomes e preços dos produtos no carrinho.
 
 ## Tecnologias Utilizadas 🛠️
 
-Cypress: Framework de automação de testes.
-Cypress Cucumber Preprocessor: Suporte a BDD com Gherkin.
-JavaScript: Linguagem de programação utilizada no projeto.
-Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+_Cypress:_ Framework de automação de testes.
 
-Autor: Kaique Ferraz da Silva
+_Cypress Cucumber Preprocessor:_ Suporte a BDD com Gherkin.
+
+_JavaScript:_ Linguagem de programação utilizada no projeto.
+
+_Autor:_ Kaique Ferraz da Silva
