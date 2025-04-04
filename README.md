@@ -33,7 +33,7 @@ Este é um projeto de automação de testes utilizando o framework [Cypress](htt
 }
 ```
 
-# Executando os Testes 🚀
+## Executando os Testes 🚀
 
 Abrindo a interface do Cypress, execute:
 
@@ -48,14 +48,14 @@ Para rodar os testes em modo headless, utilize:
 $ npx cypress run
 ```
 
-# Cenários de Teste Implementados 🔍
+## Cenários de Teste Implementados 🔍
 
 Login: Testa o login com credenciais válidas.
 Busca de Produtos: Realiza a busca de produtos e valida os resultados.
 Adicionar Produto ao Carrinho: Adiciona produtos ao carrinho e valida a inclusão.
 Validar Produtos no Carrinho: Valida os nomes e preços dos produtos no carrinho.
 
-# Tecnologias Utilizadas 🛠️
+## Tecnologias Utilizadas 🛠️
 
 Cypress: Framework de automação de testes.
 Cypress Cucumber Preprocessor: Suporte a BDD com Gherkin.
@@ -63,4 +63,4 @@ JavaScript: Linguagem de programação utilizada no projeto.
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
-Autor: Kaique Ferraz da Silva ```
+Autor: Kaique Ferraz da Silva
