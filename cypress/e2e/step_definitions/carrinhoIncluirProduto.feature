@@ -6,5 +6,3 @@ Feature: Incluir produto no carrinho de compras
         When o usuário seleciona um produto e define a quantidade desejada
         And adiciona o produto ao carrinho
         Then o sistema valida que o produto foi adicionado com sucesso
-
-
