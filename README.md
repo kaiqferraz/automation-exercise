@@ -66,4 +66,5 @@ _Cypress Cucumber Preprocessor:_ Suporte a BDD com Gherkin.
 
 _JavaScript:_ Linguagem de programação utilizada no projeto.
 
-_Autor:_ Kaique Ferraz da Silva
+_Autor:_ Kaique Ferraz da Silva  
+
